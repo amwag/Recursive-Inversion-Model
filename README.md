@@ -31,3 +31,5 @@ Example commandline arguments:
 
 
 A note on the Sushi dataset: The authors of these methods would like to thank the creators of the Sushi rank dataset (found at https://www.kamishima.net/sushi/) which was used in testing and studying these models. Per the request of the data set authors, the data is not distributed alongside this code and must be separately downloaded and preprocessed using the ReformatSushi.R script found within the data/sushi folder. Consult the RIM-README-Sushi.txt file found therein for more details.
+
+A note on future developments: Anyone digging into the code further may discover that it contains functionality not accessed by the examples here. The code authors have developed Recursive Inversion Models further than what is available here, and plan to introduce more methods for different functionality to the public respository over time.
