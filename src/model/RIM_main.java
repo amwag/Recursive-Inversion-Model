@@ -13,7 +13,7 @@ import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class Testing {
+public class RIM_main {
 	public static void main(String[] args) throws IOException {
 		
 		long startTime = System.currentTimeMillis();
