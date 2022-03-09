@@ -26,7 +26,7 @@ public class RIM_main {
 		String defaultTreeArgs="-importrim rim=([0.7],0,([1.1],([0.9],1,([0.2],([1.0],2,3),4)),([0.3],([0.9],([0.8],5,6),7),([1.0],8,9))))";
 
 		// For faking input from command line
-		args=defaultSynthArgs.split(" ");
+		//args=defaultSynthArgs.split(" ");
 		//args=defaultPermArgs.split(" ");
 		//args=defaultTreeArgs.split(" ");
 		
